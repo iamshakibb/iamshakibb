@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, My name is Shihabun Shakib
+#### I am a Font End Developer. 
+I am from Bangladesh. I love to make web stuff and automate them. I love to make things by JavaScript and React Js.
 
-<!--
-**iamshakibb/iamshakibb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / JS / HTML / CSS/Bootstrap/Material-UI
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning React Js  
+- 💬 Ask me about Anything 
+- 📫 How to reach me: Follow me on social media 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iamshakibb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamshakibb/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iamshakibb/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iamshakibb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@iamshakibb)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamshakibb&show_icons=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshakibb)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/iamshakibb)  
