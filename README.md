@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Shihabun Shakib
-#### I am a Font End Developer. 
-I am from Bangladesh. I love to make web stuff and automate them. I love to make things by JavaScript and React Js.
+#### I am a software Font End Developer at Forwrd. 
+I am from Bangladesh. I love to make web stuff and automate them. I love to make things by Typescript and React Js.
 
 Skills: REACT / JS / HTML / CSS/Bootstrap/Material-UI
 
