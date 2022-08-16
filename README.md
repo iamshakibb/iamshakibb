@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Shihabun Shakib</h1>
 <h3 align="center">A passionate and curious frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamshakibb&label=Profile%20views&color=0e75b6&style=flat" alt="iamshakibb" /> </p>
+![Profile views](https://gpvc.arturio.dev/iamshakibb)
 
 - 🔭 I’m currently working on [e-commerce](https://github.com/iamshakibb/e-commerce)
 
