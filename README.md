@@ -6,7 +6,7 @@ For the past five years I've built recruitment software: the CRM and applicant-t
 
 - 🌐 Portfolio: [iamshakibb.com](https://iamshakibb.com)
 - ✍️ Writing: [iamshakibb.com/blog](https://iamshakibb.com/blog) · [Medium](https://medium.com/@iamshakibb)
-- 🌱 Learning outside work: Swift ([gitNotify](https://github.com/iamshakibb/gitNotify), a macOS menu-bar app for GitHub notifications), Go ([go-employee-api](https://github.com/iamshakibb/go-employee-api)) and Rust ([todo-cli](https://github.com/iamshakibb/todo-cli))
+- 🌱 Learning outside work: Go ([go-employee-api](https://github.com/iamshakibb/go-employee-api)) and Rust ([todo-cli](https://github.com/iamshakibb/todo-cli))
 - 📫 shihabunshakib9346@gmail.com
 
 ### Tools I work with
@@ -15,7 +15,7 @@ For the past five years I've built recruitment software: the CRM and applicant-t
 
 ### Exploring
 
-[![Exploring](https://skillicons.dev/icons?i=go,rust,swift)](https://iamshakibb.com/about)
+[![Exploring](https://skillicons.dev/icons?i=go,rust)](https://iamshakibb.com/about)
 
 ### Elsewhere
 
