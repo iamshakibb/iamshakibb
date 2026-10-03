@@ -1,29 +1,22 @@
-<h1 align="center">Hi 👋, I'm Mohammad Shihabun Shakib</h1>
-<h3 align="center">A passionate and curious frontend developer from Bangladesh</h3>
+## Hi, I'm Shihabun Shakib 👋
 
-![Profile views](https://gpvc.arturio.dev/iamshakibb)
+Senior Software Engineer at [Athena CRM](https://athenacrm.io) in London, working remotely from Chattogram, Bangladesh, and an economics student at East West University.
 
-- 🔭 I’m currently working on [e-commerce](https://github.com/iamshakibb/e-commerce)
+For the past five years I've built recruitment software: the CRM and applicant-tracking tools agencies use to find, track and place people. Most of my day is React and TypeScript, but I follow a feature wherever it goes: the API, the Chrome extension, the marketing site. I also review a large share of what the team ships.
 
-- 🌱 I’m currently learning **Node JS and Nest JS**
+- 🌐 Portfolio: [iamshakibb.com](https://iamshakibb.com)
+- ✍️ Writing: [iamshakibb.com/blog](https://iamshakibb.com/blog) · [Medium](https://medium.com/@iamshakibb)
+- 🌱 Learning outside work: Swift ([gitNotify](https://github.com/iamshakibb/gitNotify), a macOS menu-bar app for GitHub notifications), Go ([go-employee-api](https://github.com/iamshakibb/go-employee-api)) and Rust ([todo-cli](https://github.com/iamshakibb/todo-cli))
+- 📫 shihabunshakib9346@gmail.com
 
-- 👨‍💻 All of my projects are available at [https://shihabunshakib0186.web.app/](https://shihabunshakib0186.web.app/)
+### Tools I work with
 
-- 💬 Ask me about **React, NextJS, Typescript, Redux**
+[![Tools](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,postgres,mongodb,graphql&perline=10)](https://iamshakibb.com/uses)
 
-- 📫 How to reach me **shihabunshakib9346@gmail.com**
+### Exploring
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamshakibb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamshakibb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamshakibb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamshakibb" height="30" width="40" /></a>
-<a href="https://fb.com/iamshakibb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamshakibb" height="30" width="40" /></a>
-<a href="https://instagram.com/iamshakibb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamshakibb" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iamshakibb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamshakibb" height="30" width="40" /></a>
-</p>
+[![Exploring](https://skillicons.dev/icons?i=go,rust,swift)](https://iamshakibb.com/about)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Elsewhere
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshakibb&show_icons=true&locale=en&layout=compact" alt="iamshakibb" /></p>
-
+[LinkedIn](https://www.linkedin.com/in/iamshakibb) · [X](https://x.com/iamshakibb) · [Medium](https://medium.com/@iamshakibb)
